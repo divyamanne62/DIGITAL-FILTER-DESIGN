@@ -51,3 +51,7 @@ h3 = 2
 
 ```bash
 iverilog -o fir_filter fir_filter.v fir_filter_tb.v
+
+##WAVEFORMS:
+<img width="1280" height="960" alt="WhatsApp Image 2026-05-29 at 11 19 59 AM" src="https://github.com/user-attachments/assets/8ce7efb4-0c38-427e-8398-14f4f7cf4aa6" />
+
